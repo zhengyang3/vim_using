@@ -1,0 +1,5 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_1='/data/sdc1/puhui/wxl/yz_work/A33_gms51/android/device/softwinner/astar-h7'
+let g:netrw_dirhist_2='/data/sdc1/puhui/wxl/yz_work/A33_gms51/lichee/tools/pack/pctools'
+let g:netrw_dirhist_3='/data/sdc1/puhui/wxl/yz_work/A33/android4.4/packages/apps/Launcher2/res/values-sw720dp'
