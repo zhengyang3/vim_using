@@ -68,6 +68,7 @@ map <C-l> <C-W>l
 
 nnoremap <silent> <F3> :Grep -rnsi<CR>
 nmap <leader>q :q<cr>
+nmap <leader>n :bn<cr>
 nmap <leader>f :q!<cr>
 nmap <leader>c :copen<cr>
 
