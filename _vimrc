@@ -67,9 +67,8 @@ map <C-h> <C-W>h
 map <C-l> <C-W>l
 
 nnoremap <silent> <F3> :Grep -rnsi<CR>
-nmap <leader>q :q<cr>
+nmap <leader>q :q!<cr>
 nmap <leader>n :bn<cr>
-nmap <leader>f :q!<cr>
 nmap <leader>c :copen<cr>
 
 
@@ -93,7 +92,7 @@ nmap s <Plug>(easymotion-s)
 " or
 " `s{char}{char}{label}`
 " Need one more keystroke, but on average, it may be more comfortable.
-nmap s <Plug>(easymotion-s2)
+nmap f <Plug>(easymotion-s2)
 
 " Turn on case insensitive feature
 let g:EasyMotion_smartcase = 1
